@@ -26,7 +26,7 @@ string class_names[39] = {"bg","girl_skrztj", "girl_sxqb", "girl_dsws", "girl_wc
 "girl_swsj", "girl_dlst", "girl_rzxx", "girl_lxgq", "girl_jjyg", "girl_dmmdxbs", "girl_zjcy", 
 "girl_rald", "girl_dcsgsc", "girl_qxsqxz", "xx",};
 vector<string> img_names = {
-                            "15.jpg",
+                            "test.jpg",
                             "30.jpg",
                             "45.jpg",
                             "60.jpg",
