@@ -1,0 +1,6 @@
+'bg', 'xx', 'currency_wczy', 'currency_zsbtl', 'currency_zjcf', 'currency_xhjpy', 'currency_zjcy', 'currency_jyblf', 
+'currency_dhs', 'currency_sswj', 'currency_ydkws', 'currency_qxsqxz', 'currency_bkn', 'currency_wmlm', 'currency_dcsgsc', 
+'currency_zjxs', 'currency_zjxl', 'currency_zjzl', 'currency_fxwj', 'currency_rayd', 'currency_zzdz', 'currency_xahh', 
+'currency_zjsj', 'currency_skdsswdn', 'currency_lxgq', 'currency_tzbdh', 'currency_hbhz', 'currency_dmmdxbs', 'currency_rald', 
+'currency_skzbj', 'currency_dsws', 'currency_rzxx', 'currency_jjyg', 'currency_rzsk', 'currency_asqc', 'currency_bsl', 
+'currency_assx', 'currency_zjdszjz', 'currency_shylscls'
